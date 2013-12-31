@@ -1,0 +1,4 @@
+mysite
+======
+
+bare bones
